@@ -1,0 +1,30 @@
+body{
+    background-color: seashell;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color:crimson
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    font-size: 70px;
+    color:greenyellow;
+}
+h3{
+    font-family: fantasy;
+}
+h3{
+    color:darkcyan;
+}
+p{
+    font-family: inherit;
+}
+p{
+    background-color: cyan;
+    color: darkblue;
+    
+}
