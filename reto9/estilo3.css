@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Playfair+Display:ital,wght@1,500&display=swap');
+
+.delta{
+    font-family: 'Oswald', sans-serif;
+}
+
+
+.dancing{
+    font-family: 'Oswald', sans-serif;
+font-family: 'Playfair Display', serif;
+}
+
+.border{
+    border-bottom-left-radius: 40px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 10px 10px 25px 5px;
+}
